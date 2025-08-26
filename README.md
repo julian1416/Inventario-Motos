@@ -132,7 +132,8 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 Desarrollado con ❤️ por:
 
 **Julián David Rojas Román**  
-- **GitHub:** [julian1416](https://github.com/tu-usuario)  
-- **LinkedIn:** [linkedin.com/in/julian-rojas-8b4b682b0](https://linkedin.com/in/tu-perfil)  
+- **GitHub:** (https://github.com/julian1416)  
+- **LinkedIn:** [www.linkedin.com/in/julian-rojas-8b4b682b0
+)  
 
 ¡Gracias por revisar mi proyecto! ⭐ Si te gustó, no olvides darle **star** al repositorio.
