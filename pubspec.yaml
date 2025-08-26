@@ -1,0 +1,35 @@
+name: crud_flutter
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.12.1
+  cloud_firestore: ^5.6.5
+  flutter_launcher_icons: ^0.14.3
+  firebase_storage: ^12.4.10
+  image_picker: ^1.1.2
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icono_moto.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icono_moto.png
