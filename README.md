@@ -38,44 +38,49 @@ Este proyecto es una solución completa que aborda el desafío de gestionar un i
 
 Un vistazo a las vistas principales de cada módulo de la aplicación.
 
-| Inventario de Cascos | Gestión de Visores |
-| :---: | :---: |
-| <img src="screens/helmets_list.jpg" alt="Lista de inventario de cascos" width="250"/> | <img src="screens/visors_list.jpg" alt="Lista de visores con stock por color" width="250"/> |
-| **Productos Generales** | **Guía de Llantas** |
-| <img src="screens/products_list.jpg" alt="Lista de productos generales con CRUD" width="250"/> | <img src="screens/tires_guide.jpg" alt="Guía de referencia de llantas con búsqueda" width="250"/> |
+| Inventario de Cascos | Gestión de Visores | Productos Generales | Guía de Llantas |
+| :---: | :---: | :---: | :---: |
+| <img src="screens/helmets_list.jpg" alt="Lista de inventario de cascos" width="200"/> | <img src="screens/visors_list.jpg" alt="Lista de visores con stock por color" width="200"/> |<img src="screens/products_list.jpg" alt="Lista de productos generales" width="200"/> | <img src="screens/tires_guide.jpg" alt="Guía de referencia de llantas" width="200"/> |
+
+<br>
 
 <details>
-  <summary><b>📂 Galería completa (Click para expandir)</b></summary>
+<summary><b>Ver Galería Detallada por Módulo (Click para expandir)</b></summary>
   
-  ---
+---
   
-  #### 🪖 Módulo de Cascos
-  *Vista de la lista de cascos, formulario de creación y diálogo de edición.*
-  <p align="center">
-    <img src="screens/helmets_list.jpg" alt="Lista de cascos" width="25%">
-    <img src="screens/helmets_add.jpg" alt="Añadir casco" width="25%">
-    <img src="screens/helmets_edit.jpg" alt="Editar casco" width="25%">
-  </p>
+#### 헬 Módulo de Cascos
+*Flujo completo: desde la lista principal hasta los diálogos para añadir y editar un casco.*
 
-  ---
-  
-  #### 🕶️ Módulo de Visores
-  *Vista de la lista expandible, formulario de creación y edición con gestión de colores.*
-  <p align="center">
-    <img src="screens/visors_list.jpg" alt="Lista de visores" width="25%">
-    <img src="screens/visors_add.jpg" alt="Añadir visor" width="25%">
-    <img src="screens/visors_edit.jpg" alt="Editar visor" width="25%">
-  </p>
-  
-  ---
+| Vista Principal | Añadir Nuevo | Editar Existente |
+| :---: | :---: | :---: |
+| <img src="screens/helmets_list.jpg" alt="Lista de cascos" width="240"/> | <img src="screens/helmets_add.jpg" alt="Añadir casco" width="240"/> | <img src="screens/helmets_edit.jpg" alt="Editar casco" width="240"/> |
 
-  #### 📦 Módulo de Productos
-  *Lista simple de productos, formulario de creación y diálogo de edición.*
-  <p align="center">
-    <img src="screens/products_list.jpg" alt="Lista de productos" width="25%">
-    <img src="screens/products_add.jpg" alt="Añadir producto" width="25%">
-    <img src="screens/products_edit.jpg" alt="Editar producto" width="25%">
-  </p>
+---
+  
+#### 🕶️ Módulo de Visores
+*Vista de la lista expandible, formulario de creación y edición con gestión de colores.*
+
+| Vista Principal | Añadir Nuevo | Editar Existente |
+| :---: | :---: | :---: |
+| <img src="screens/visors_list.jpg" alt="Lista de visores" width="240"/> | <img src="screens/visors_add.jpg" alt="Añadir visor" width="240"/> | <img src="screens/visors_edit.jpg" alt="Editar visor" width="240"/> |
+
+---
+  
+#### 📦 Módulo de Productos Generales
+*Lista simple de productos, formulario de creación y diálogo de edición.*
+
+| Vista Principal | Añadir Nuevo | Editar Existente |
+| :---: | :---: | :---: |
+| <img src="screens/products_list.jpg" alt="Lista de productos" width="240"/> | <img src="screens/products_add.jpg" alt="Añadir producto" width="240"/> | <img src="screens/products_edit.jpg" alt="Editar producto" width="240"/> |
+
+---
+
+#### 📋 Guía de Llantas
+*Herramienta de consulta rápida con búsqueda en tiempo real.*
+<p align="center">
+  <img src="screens/tires_guide.jpg" alt="Guía de llantas" width="240"/>
+</p>
 
 </details>
 
